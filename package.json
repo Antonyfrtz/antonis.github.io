@@ -2,7 +2,7 @@
   "name": "antonis-cv",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Antonyfrtz.github.io/antonis.github.io",
+  "homepage": "https://antonyfrtz.github.io/antonis.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
